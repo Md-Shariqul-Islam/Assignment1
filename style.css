@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+	padding: 20px;
+    background-color: #c72b50;
+    text-align: center;
+    color: white;
+
+}
+
+nav{
+    background-color: yellow;
+    height: 400px;
+    width: 20%;
+    float: left;
+}
+.article{
+    height: 400px;
+    width: 55%;
+    background-color: yellow;
+    float: left;
+    margin-left: 2.5%;
+}
+aside{
+    height: 400px;
+    width: 20%;
+    background-color: yellow;
+    float: right;
+    
+}
+
+.content{
+	margin-top: 23px;
+	overflow: hidden;
+	text-align: center;
+	
+}
+footer{
+    background-color: yellow;
+    margin-top: 23px;
+    display: block;
+}
